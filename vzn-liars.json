@@ -1,4 +1,4 @@
 {
-    "version": "1.1.0",
-    "description": "Now implementations of prop functions are open sourced."
+    "version": "1.2.0",
+    "description": "Support for multiple routing buckets. Fixed some bugs and critical errors"
 }
