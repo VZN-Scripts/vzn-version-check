@@ -1,4 +1,4 @@
 {
-    "version": "1.2.1",
-    "description": "Added optional blips for tables"
+    "version": "1.2.2",
+    "description": "Added auto refreshing player animations if was canceled in unknown way"
 }
