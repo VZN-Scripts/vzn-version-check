@@ -1,4 +1,4 @@
 {
-    "version": "1.1.6",
-    "description": "Implementen removing vehicle keys after job finish. Fixed removing vehicle on job cancel"
+    "version": "1.1.7",
+    "description": "Fixed canceling job"
 }
